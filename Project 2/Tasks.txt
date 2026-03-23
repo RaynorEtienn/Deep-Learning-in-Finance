@@ -1,0 +1,24 @@
+Part 1. Complete the (short) list of To Do's in the notebook Deep_hedging.ipynb from session 5. 
+
+
+Part 2: Deep hedging in the multi-asset case. Please read carefully the project description in the attached pdf file DL_in_finance_project_2_description.pdf.
+
+Upload the following files:
+
++ For part 1: your notebook Deep_hedging.ipynb after completion of the To Do's, together with a static pdf copy of the notebook showing all the code cells, text cells and output cells.
+
+We expect you to clearly comment (using text cells) your results : are you satisfied by the results you obtained? By the option price, the hedging strategy, the hedging error? (the answer can be positive or negative... try to have a critical view on the outcome!) Feel free to ad any comment you find appropriate.
+
++ For part 2: A Jupyter notebook for the "Deep hedging in the multi-asset case" problem, containing your commented code, together with a static pdf copy of the notebook showing all the code cells, text cells and output cells. 
+
+We expect you to clearly comment (using text cells) your results : are you satisfied by the results you obtained? Do you have any criticism? 
+
+
+One submission per group is sufficient. Same groups as for project #1. 
+
+Make sure that the names of the members of the group appear at the top of each notebook.
+
+
+Let us end with the usual final note: it is of course good to discuss with classmates about the content of the course and about the project, but remember that each submission must be an original piece of work of the members of the group only. (We will pay attention to the possible similarities between the notebooks of different groups.)
+
+Please respect the submission deadline (late submissions will be penalized: -2 points up to 24h delay, -4 points up to 48h delay... and so on).
